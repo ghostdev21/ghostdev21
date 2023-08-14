@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1j6SJEld-mSVuj8Pgj1eqWmdpztPQzpzs/view?usp=sharing)
+![](https://drive.google.com/file/d/1j6SJEld-mSVuj8Pgj1eqWmdpztPQzpzs/view?usp=sharing)
 
 
 ## 🚀 About Me
