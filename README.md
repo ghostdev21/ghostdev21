@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1j6SJEld-mSVuj8Pgj1eqWmdpztPQzpzs/view?usp=sharing)
+![](/assets/hack.gif)
 
 
 ## 🚀 About Me
