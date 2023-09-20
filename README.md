@@ -14,13 +14,13 @@ Soy un desarrollador web apasionado por la tecnología y por el crecimiento prof
 
 ## 🔗 Links
 <p align="center">
-  <a href="https://portfolio-rho-six-76.vercel.app/ n ">
+  <a href="https://portfolio-rho-six-76.vercel.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/daniel-ramos-1ab664223/">
+  <a href="https://www.linkedin.com/in/daniel-ramos21/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/GhostDR21">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
