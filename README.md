@@ -3,7 +3,7 @@
 
 
 
-![](/assets/hack.gif)
+![](/assets/dani.png)
 
 
 ## 🚀 Sobre mi
