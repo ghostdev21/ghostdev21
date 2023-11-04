@@ -2,7 +2,7 @@
 
 ![Simulación de foto de perfil](/assets/dani.png)
 
-Soy un apasionado desarrollador web full stack con experiencia en la creación de aplicaciones web y móviles. Me especializo en tecnologías como Next.js, Prisma, PostgreSQL, Sequelize, Express, Node.js, TypeScript y Tailwind CSS. Vivo en Oaxaca, México, y tengo 21 años. Estoy constantemente aprendiendo y explorando nuevas tecnologías.
+Soy un apasionado desarrollador web full stack con experiencia en la creación de aplicaciones web y móviles. Vivo en Oaxaca, México, y tengo 21 años. Estoy constantemente aprendiendo y explorando nuevas tecnologías.
 
 ## Tecnologías
 
