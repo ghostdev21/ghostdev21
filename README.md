@@ -1,6 +1,6 @@
-# Daniel Ramos Martinez - Full Stack Developer
+# Daniel Ramos Martinez - Full Stack Developer👋
 
-![](/assets/ghost_logo.jpg)
+![Ghost Logo](/assets/ghost_logo.jpg)
 
 ## Sobre mí
 
@@ -8,7 +8,7 @@ Soy un estudiante autodidacta y apasionado por la tecnología, especializado com
 
 - **Ubicación:** Valles Centrales Oaxaca, México
 - **Correo Electrónico:** [daniel21develop@gmail.com](mailto:daniel21develop@gmail.com)
-- **Sitio Web:** https://ghost-dev-virid.vercel.app/
+- **Sitio Web:** https://ghost-dev-virid.vercel.app/ 🌐
 
 ## Experiencia Laboral
 
@@ -33,36 +33,33 @@ Soy un estudiante autodidacta y apasionado por la tecnología, especializado com
 - **Fecha de finalización:** Enero 1, 2024
 - **Puntuación:** 9.0
 - **Cursos destacados:** Frontend - React, Backend - NodeJS
-- **Sitio web:** [academlo.com](https://www.academlo.com/)
+- **Sitio web:** [academlo.com](https://www.academlo.com/) 🎓
 
 ## Habilidades
 
-- **Lenguajes:** Spanish (Native speaker), English (A2)
+- **Lenguajes:** Spanish (Native speaker), English (A2) 🌎
 - **Tecnologías:**
   - HTML, CSS, JavaScript, TypeScript
   - Tailwind, Node, MySQL
   - Git, GitHub, Next.js, React
-  - prismaORM
+  - PrismaORM
 
 ## Proyectos Destacados
 
 1. **ghost stream**
    - Plataforma de streaming con chat y administración de usuarios.
-   - [Ver proyecto](https://next-streaming-ghost.vercel.app/)
+   - [Ver proyecto](https://next-streaming-ghost.vercel.app/) 📺
 
 2. **ghost shop**
    - Plantilla de tienda virtual con simulación de compras.
-   - [Ver proyecto](https://advent.js/dev)
+   - [Ver proyecto](https://advent.js/dev) 🛒
 
 3. **ghost music**
    - Reproductor de música con almacenamiento y pago.
-   - [Ver proyecto](https://ghost-music.vercel.app/)
+   - [Ver proyecto](https://ghost-music.vercel.app/) 🎵
 
 ## Redes Sociales
 
-- **LinkedIn:** [daniel](https://www.linkedin.com/in/ghostdrm/)
-- **Twitter:** [@ghostDRM21](https://twitter.com/ghostDRM21)
-- **GitHub:** [ghostdev](https://github.com/danielghost20)
-
-
-
+- **LinkedIn:** [daniel](https://www.linkedin.com/in/ghostdrm/) 👔
+- **Twitter:** [@ghostDRM21](https://twitter.com/ghostDRM21) 🐦
+- **GitHub:** [ghostdev](https://github.com/danielghost20) 🐙
