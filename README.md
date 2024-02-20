@@ -1,6 +1,6 @@
 # Daniel Ramos Martinez - Full Stack Developer
 
-![](/assets/hack.gif)
+![](/assets/ghost_logo.jpg)
 
 ## Sobre mí
 
